@@ -6,15 +6,20 @@ const theme = {
     white: 'hsl(0, 0%, 100%)',
     fromAccent: 'hsl(347, 99%, 66%)',
     toAccent: 'hsl(13, 100%, 62%)',
+    red: 'hsl(0, 87%, 67%)',
+    bgRed: 'hsl(0, 80%, 92%)',
   },
   paths: {
     mobileHero: 'illustration-sign-up-mobile.svg',
     desktopHero: 'illustration-sign-up-desktop.svg',
+    iconList: 'icon-list.svg',
   },
   sizes: {
     mobileHeroHeight: '284px',
     desktopHeroWidth: '400px',
     desktopHeroHeight: '593px',
+    mobileSuccessHeroHeight: '220px',
+    desktopSuccessHeroHeight: '96px',
   },
 }
 
