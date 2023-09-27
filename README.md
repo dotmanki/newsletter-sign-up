@@ -46,7 +46,7 @@ Users should be able to:
 ### Links
 
 - [Repository](https://github.com/dotmanki/newsletter-sign-up)
-- [Deploy](https://your-live-site-url.com)
+- [Deploy](https://newsletter-sign-up-red.vercel.app/)
 
 ## My process
 
